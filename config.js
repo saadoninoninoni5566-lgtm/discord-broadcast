@@ -11,7 +11,7 @@ module.exports = {
         defaultLanguage: 'ar', // ar | en لغة البوت
         
         activity: {
-            name: 'Wick Studio', // رسالة حالة البوت
+            name: 'SAAD TOP 1', // رسالة حالة البوت
             type: 'WATCHING', // PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
             status: 'dnd' // online, idle, dnd, invisible
         }
